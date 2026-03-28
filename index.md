@@ -12,7 +12,7 @@ permalink: /
 <body>
   <main class="site">
     <header class="topbar">
-      <div class="brand">Hongyu Studio</div>
+      <div class="brand">Hongyu Li</div>
       <nav class="nav">
         <a href="/projects">Projects</a>
         <a href="/lab">Lab</a>
