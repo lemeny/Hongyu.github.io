@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+title: Hongyu Studio
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
